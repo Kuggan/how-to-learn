@@ -20,7 +20,7 @@
   align-items: center;
   
 
-  /* выше установили ограничения для секции */
+  
 }
 .logo_place_header{
   width:183px;
@@ -272,12 +272,9 @@
 .table__theme-dark{
   width:1100px;
   height: 400px;
- 
   display:flex;
   flex-wrap: wrap;
   align-content: space-around;
-  
-  
   z-index: 3;
   margin: 225px 90px auto;
   box-sizing:border-box;
@@ -286,7 +283,6 @@
 .table__cell_theme_dark{
   width:200px;
   height: 90px;
-  
   margin-top:60px;
   margin-bottom: 0px;
   
@@ -295,9 +291,9 @@
 .table__heading_theme_dark{
   width: 200px;
   height: 20px;
-  line-height: 1.15; 
-  font-size: 24px;
-  font-weight: 500px;
+  line-height:1.15;
+  font-size:24px;
+  font-weight:500px;
 }
 .table__text_theme_dark{
   width:200px;
@@ -316,8 +312,6 @@
   top:0px;
   right:-210px;
   bottom:0px;
- 
-  
   }
 .footer{
   min-height: 350px;
@@ -333,7 +327,6 @@
 .colunms{
   width: 90%;
   height:250px;
-  
   margin-top: 60px;
   margin-bottom: 40px;
   display: flex;
@@ -343,22 +336,17 @@
 .colunm_content-copyright{
   width:450px;
   height:250px;
-  
- } 
+  } 
 .colunm_content-info{
  width:150px;
  height:250px;
- 
  position: absolute;
  top: 60px;
  left: 1000px;
- 
-
-}
+ }
 .colunm_content-social{
   width:150px;
   height:250px;
-  
   position: absolute;
   top: 60px;
   right: 60px;
@@ -383,8 +371,6 @@
 
 }
 .colunm__heading{
-
-  
   margin-top: 0px;
   font-size:18px;
   line-height: 30px;
