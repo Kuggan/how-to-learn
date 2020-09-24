@@ -8,6 +8,5 @@
     position: relative;
     box-sizing:border-box;
     overflow: hidden;
-    padding-bottom: 90px;
     z-index: 1;
-    }
+}
