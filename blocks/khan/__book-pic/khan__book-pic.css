@@ -1,6 +1,7 @@
 .khan__book-pic{
   width: 620px;
   height: 608px;
-  object-position:cover;
-  overflow: hidden;
+  object-position: top left;
+  object-fit: cover;
+  /* такое сочетание object-fit и object-position, вроде как похоже на бриф*/
 }
